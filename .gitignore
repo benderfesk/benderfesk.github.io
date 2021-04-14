@@ -1,0 +1,11 @@
+output/
+target/
+.settings/
+.classpath
+.project
+/.idea/.gitignore
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/*

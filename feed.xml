@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JBake</title>
+    <link>http://localhost:8820</link>
+    <atom:link href="http://localhost:8820/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Benderfesk Homepage</description>
+    <language>en-gb</language>
+    <pubDate>Wed, 14 Apr 2021 15:44:33 +0200</pubDate>
+    <lastBuildDate>Wed, 14 Apr 2021 15:44:33 +0200</lastBuildDate>
+
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:8820/blog/2021/first-post.html</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">blog/2021/first-post.html</guid>
+      <description>
+&amp;lt;div class=&amp;quot;content&amp;quot;&amp;gt;
+    &amp;lt;p&amp;gt;My personal website... placeholder.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+</description>	  
+    </item>
+
+  </channel> 
+</rss>
